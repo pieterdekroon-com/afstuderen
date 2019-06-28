@@ -1,0 +1,23 @@
+# Table of contents
+
+* [Monitoring platform - Product biografie](README.md)
+* [Fase 1: Verkenning en onderzoek](fase-1-verkenning/README.md)
+  * [Fase 1.1 - Markt](fase-1-verkenning/untitled-1.md)
+  * [Fase 1.2 - Gebruikers](fase-1-verkenning/fase-1.2.md)
+  * [Fase 1.3 - Technisch](fase-1-verkenning/fase-1.3.md)
+  * [Fase 1.4 - Data Visualisatie](fase-1-verkenning/fase-1.4-data-visualizatie.md)
+  * [Fase 1.5 - UX/UI patterns](fase-1-verkenning/fase-1.5-ux-ui-patterns.md)
+  * [Fase 1.6 - Feedback design](fase-1-verkenning/fase-1.6-feedback-design.md)
+  * [Fase 1.7 - Afwijkingen in data](fase-1-verkenning/fase-1.7-afwijkingen-in-data.md)
+  * [Affinity map & PvE](fase-1-verkenning/affinity-map-v1.md)
+* [Fase 2: Idee ontwikkeling](fase-2-idee-ontwikkeling/README.md)
+  * [Fase 2.1 - Inspiratie](fase-2-idee-ontwikkeling/fase-2.1.md)
+  * [Fase 2.2 - Eerdere prototypes](fase-2-idee-ontwikkeling/fase-2.2.md)
+  * [Fase 2.3 - Prototype V1](fase-2-idee-ontwikkeling/fase-2.3-prototype-v1.md)
+  * [Fase 2.4 - Flowchart](fase-2-idee-ontwikkeling/fase-2.4-structuur-en-wireframes.md)
+* [Fase 3: Ontwerpen](fase-3-prototyping/README.md)
+  * [Fase 3.1 - Feedback groenlichtpresentatie](fase-3-prototyping/fase-3.1-feedback-groenlichtpresentatie.md)
+  * [Fase 3.2 - Prototype V2](fase-3-prototyping/fase-2.3-prototype-v2.md)
+  * [Fase 3.3 - Prototype V2 testing](fase-3-prototyping/fase-3-prototype-testing.md)
+  * [Fase 3.4 - Prototype V3](fase-3-prototyping/fase-3.4-prototype-v3.md)
+
